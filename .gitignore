@@ -1,0 +1,12 @@
+log/*
+tmp/*
+config/database.yml
+.loadpath
+.project
+*~
+*#
+*.#
+.#*
+*.bak
+*.backup
+db/schema.rb
